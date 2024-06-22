@@ -1,0 +1,70 @@
+.dobr{
+    text-align: center;
+    background-color: rgb(169, 169, 169);
+    border-radius: 50px;
+    border-color: red;
+    border: 5px;
+}
+.cayt{
+    color: black;
+    background-color: yellow;
+}
+.inf{
+    background-color: yellow;
+    width: 800px;
+}
+.moshina{
+    color: green;
+}
+.y{
+    color: red;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.x{
+    color: yellow;
+}
+.tre{
+    color: green;
+}
+.s{
+    color: grey;
+}
+.qat{
+    width: 100px;
+    background-color: red;
+}
+.ty{
+    background-color: blueviolet;
+}
+.tes{
+    background-color: green;
+}
+.svet{
+    margin-top: 50px; 
+    text-align: center;
+    margin-bottom: 30px;
+}
+.model{
+    margin-top: 10px;
+}
+button{
+    width: 250px;
+    background-color: rgb(75, 247, 75);
+    border: none;
+    margin-top: 10px;
+}
+.img-on{
+    width: 580px;
+    margin-top: 20px;
+}
+.img-rig{
+    width: 580px;
+    text-align: right;
+}
+.img-onn{
+    width: 580px;
+}
+.img-righ{
+    width: 580px;
+}
